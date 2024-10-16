@@ -16,7 +16,7 @@ public class MaximumOfThreeNumber {
 //        max = (num1 > num2) ? (num1 > num3 ? num1 : num3) : (num2 > num3 ? num2 : num3);
 //        System.out.println(max);
 
-        //Using Math.max() method
+        //Using Math.max() method(best approach)
 //        max = Math.max(Math.max(num1,num2),num3);
 //        System.out.println(max);
 

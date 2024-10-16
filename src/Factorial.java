@@ -20,6 +20,7 @@ public class Factorial {
     static void printFactorial(int number,int fact){
         if(number==1) {
             System.out.println(fact);
+            return;
         }
         fact = fact*number;
         printFactorial(number-1,fact);
