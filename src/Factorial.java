@@ -11,9 +11,6 @@ public class Factorial {
 //        }
 //        System.out.println(fact);
         printFactorial(number,1);
-
-
-
     }
 
     //using recursion
